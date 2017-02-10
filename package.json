@@ -22,16 +22,16 @@
   },
   "homepage": "https://github.com/skeate/byffer#readme",
   "devDependencies": {
-    "babel": "^5.8.23",
+    "babel": "^6.5.2",
     "chai": "^3.3.0",
     "gulp": "^3.9.0",
-    "gulp-babel": "^5.2.1",
+    "gulp-babel": "^6.1.2",
     "gulp-plumber": "^1.0.1",
-    "gulp-sourcemaps": "^1.6.0",
+    "gulp-sourcemaps": "^2.4.1",
     "gulp-umd": "^0.2.0",
-    "mocha": "^2.3.3"
+    "mocha": "^3.2.0"
   },
   "dependencies": {
-    "diesal": "^0.1.2"
+    "diesal": "^0.3.2"
   }
 }
